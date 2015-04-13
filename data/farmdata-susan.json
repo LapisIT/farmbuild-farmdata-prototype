@@ -14,10 +14,6 @@
         [145.57368096419663,-36.224879531701255]]]
   },
   "totalArea" : 28.09,
-
-  "commons" : {
-    "milkingArea" : 23.34
-  },
   "paddocks" : [
     {
       "name" : "P3",
@@ -66,5 +62,8 @@
       "description" : "Effluent",
       "paddocks": ["P1"]
     }
-  ]
+  ],
+  "commons" : {
+    "milkingArea" : 23.34
+  }
 }
